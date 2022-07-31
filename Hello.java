@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("Hellojenkins from github webhook!"); 
         System.out.println("Hellojenkins from github webhook!");
         System.out.println("Hellojenkins from github webhook!");
+        System.out.println("Hellojenkins from github webhook!");
     }
 }
