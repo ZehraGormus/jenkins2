@@ -18,6 +18,7 @@ pipeline {
             steps {
                 echo 'Regression tests running...'
                 echo 'Regression tests running...'
+                echo 'Regression tests running...'
             }
         }
     }
